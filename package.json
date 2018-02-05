@@ -1,0 +1,22 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisong981174580/Functional-programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisong981174580/Functional-programming/issues"
+  },
+  "homepage": "https://github.com/lisong981174580/Functional-programming#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
